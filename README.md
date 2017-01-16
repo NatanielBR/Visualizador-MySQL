@@ -5,9 +5,14 @@ Informe somente o ip (sem ser nescessario informar o BD), a porta e o usuario e 
 É possivel editar (Com um duplo click na linha), remover ( clicando uma unica vez na linha), inserir (Clicando no botão) e atualizar (clicando em outro botão).
 
 # O que pode vir na proxima versão ou em futuras versões:
-Correção de bugs (logico! :) )
+Correção de bugs (logico! :) ).
+
 Poder voltar e selecionar outra tabela ou outro banco de dados.
+
 Uma barra pra orientar a escolha do banco de dados e da tabela.
+
 Uma opção de exportar a tabela.
+
 Uma opção de importar a tabela.
+
 Uma opção de criar tabela offline.
