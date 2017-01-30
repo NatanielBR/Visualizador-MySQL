@@ -28,4 +28,3 @@ Uma opção de exportar a tabela.
 
 Uma opção de importar a tabela.
 
-Uma opção de criar tabela offline.
