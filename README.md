@@ -13,8 +13,3 @@ Removido o botão, "ver status", sendo que sua vinda será proxima.
 Adicionado a barra de menu, onde irá auxiliar a importação, exportação e outras opções.
 
 É possivel alterar o servidor sem reniciar a aplicação.
-
-
-# O que pode vir na proxima versão ou em futuras versões:
-
-A capacidade de informar diversas informações com relação a forma de conectar (o ip,porta usuario e senha).
